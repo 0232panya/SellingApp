@@ -1,0 +1,134 @@
+
+.Cards{
+    display: flex;
+    width: 300px;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 50px;
+    box-shadow: 1px 1px 20px 1px rgba(10, 10, 10, 0.2);
+}
+
+.card-body{
+    border-bottom: 1px dotted rgb(59, 110, 231);
+    padding: 10px;
+    margin-top: -10px;
+}
+
+.card img{
+    width: 300px;
+    border-radius: 15px;
+    height: 200px;
+    
+}
+
+.image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.card .img-top{
+    /* display: flex; */
+    position: absolute; 
+    margin: 10px;
+}
+
+.btn-sale{
+    margin: 5px 5px 3px 0;
+    border-radius: 12px;
+    border: 0;
+    outline: 0;
+    background-color: white;
+    display: flex;
+    width: fit-content;
+    padding: 4px 7px;
+    font-size: 16px;
+    font-weight: 550;
+    color: rgb(29, 77, 189);
+}
+
+.btn-fav{
+    margin: 5px 5px 3px 0;
+    border-radius: 50%;
+    border: 0;
+    outline: 0;
+    color:  rgb(29, 77, 189);
+    background-color: white;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    padding: 7px;
+}
+
+
+.ribon{
+    color: white;
+    background-color: rgb(29, 77, 189);
+    padding:5px 15px;
+    margin-top: -20px;
+    margin-left: -15px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+
+.svg-detail{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.svg-detail .details{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.svg-detail .p{
+    border-right: 1px dotted rgb(180, 201, 251);
+}
+
+.p1{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
+
+.purchase{
+    display: flex;
+    margin: 10px 10px;
+}
+
+.purchase p{
+    width: 50%;
+    display: flex;
+    justify-content: left;
+}
+
+.purchase .btn{
+    width: 50%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.btn button{
+    border: 2px solid rgb(59, 110, 231);
+    background: transparent;
+    color: rgb(59, 110, 231);
+    width: fit-content;
+    height: fit-content;
+    padding: 8px 10px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.btn button:hover{
+    background: rgb(59, 110, 231);
+    color: white;
+}

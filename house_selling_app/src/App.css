@@ -1,0 +1,44 @@
+.App{
+  background: #eaf6f7;
+  width: 100%;
+  padding: 20px;
+  
+}
+
+.text{
+  justify-content: center;
+  text-align: center;
+  
+}
+
+.text h1{
+  margin-bottom: -10px;
+  
+}
+
+.text p{
+  font-weight: 500
+}
+
+.showMore-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  border: 2px solid rgb(59,110,231);
+  color: rgb(59,110,231);
+  background: transparent;
+  padding: 8px 15px;
+  border-radius: 20px;
+  font-size: large;
+  font-weight: 550;
+}
+
+.showMore-btn svg{
+  margin-right: 5px;
+}
+
+.showMore-btn:hover{
+  background: rgb(59,110,231);
+  color: #fff;
+}

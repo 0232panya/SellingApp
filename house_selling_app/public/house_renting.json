@@ -1,0 +1,484 @@
+
+[
+    {
+        "popular" : "popular",
+        "sale" : "For Sale",
+        "location" : "London",
+        "details"  : "DanForth Apartment",
+        "image" : "https://images.viewit.ca/46263/_BR_9_big.jpg",
+        "rooms" : "2",
+        "bed" : "3",
+        "bath" : "1",
+        "area" : "500",
+        "price" : "600"
+    },
+
+    {
+        "sale" : "For Sale",
+        "location" : "Canada",
+        "details"  : "Briar Apartment",
+        "image" : "https://th.bing.com/th/id/OIP.z1kop9-mDmiKIMcgTRkfoAHaE8?pid=ImgDet&rs=1",
+        "rooms" : "3",
+        "bed" : "4",
+        "bath" : "2",
+        "area" : "750",
+        "price" : "800"
+    },
+
+    {
+        "sale" : "For Rent",
+        "location" : "London",
+        "details"  : "Luxury Apartments, London",
+        "image" : "https://res.cloudinary.com/apartmentlist/image/upload/f_auto,q_auto,t_web-base/b92f00c5f959c25884c53efbc072e894.jpg",
+        "rooms" : "3",
+        "bed" : "3",
+        "bath" : "3",
+        "area" : "800",
+        "price" : "1000"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Rent",
+        "location" : "New York",
+        "details"  : "Ny Luxury Apartments",
+        "image" : "https://gtspirit.com/wp-content/uploads/2014/08/80909499.jpg",
+        "rooms" : "2",
+        "bed" : "3",
+        "bath" : "2",
+        "area" : "600",
+        "price" : "1000"
+    },
+
+    {
+        "sale" : "For Sale",
+        "location" : "New York",
+        "details"  : "Manhattan Luxury Apartment",
+        "image" : "https://th.bing.com/th/id/R.e446084e138b77f2779cae58a30fd86b?rik=iR5H%2fEzK3JrBGQ&riu=http%3a%2f%2fluxuryrentalsmanhattan.com%2fsites%2fdefault%2ffiles%2fuploads%2f2013_nyc_rental_market.jpg&ehk=Irg38P6cBcrkPuC%2fUpOtEDPYxu0Y6TAoFM2VEQGveU8%3d&risl=&pid=ImgRaw&r=0",
+        "rooms" : "4",
+        "bed" : "4",
+        "bath" : "3",
+        "area" : "800",
+        "price" : "1200"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Rent",
+        "location" : "Canada",
+        "details"  : "REMI Networks",
+        "image" : "https://www.reminetwork.com/wp-content/uploads/The-Roehampton.jpg",
+        "rooms" : "3",
+        "bed" : "4",
+        "bath" : "3",
+        "area" : "1000",
+        "price" : "1500"
+    },
+
+    {
+        "sale" : "For Sale",
+        "location" : "Canada",
+        "details"  : "Yorkville Luxury Apartment",
+        "image" : "https://s-ec.bstatic.com/images/hotel/max1024x768/415/41558495.jpg",
+        "rooms" : "2",
+        "bed" : "2",
+        "bath" : "2",
+        "area" : "800",
+        "price" : "900"
+    },
+
+    {
+        "sale" : "For Rent",
+        "location" : "New York",
+        "details"  : "Brooklyn Apartment",
+        "image" : "https://th.bing.com/th/id/OIP.M4ufqUZPh0ql-yd_8Q9k6QAAAA?pid=ImgDet&rs=1",
+        "rooms" : "4",
+        "bed" : "4",
+        "bath" : "2",
+        "area" : "1000",
+        "price" : "1200"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Rent",
+        "location" : "London",
+        "details"  : "Studio Apartment",
+        "image" : "https://d1bvpoagx8hqbg.cloudfront.net/originals/studio-apartment-central-london-cab3ce06eea952279e4f5eede91e0fc0.jpg",
+        "rooms" : "1",
+        "bed" : "1",
+        "bath" : "1",
+        "area" : "500",
+        "price" : "400"
+    },
+
+    {
+        "sale" : "For Sale",
+        "location" : "London",
+        "details"  : "Vacation Apartment",
+        "image" : "https://www.londonperfect.com/g/apartment-hero-images/hi_primrose_150418-131.jpg",
+        "rooms" : "2",
+        "bed" : "3",
+        "bath" : "1",
+        "area" : "700",
+        "price" : "800"
+    },
+
+    {
+        "sale" : "For Rent",
+        "location" : "London",
+        "details"  : "Lake Veiw Luxury Apartment",
+        "image" : "https://s3.amazonaws.com/mlsphotos.idxbroker.com/photos/c822/228ca147e649a4af780b13f8afc0b6f9/c019",
+        "rooms" : "2",
+        "bed" : "2",
+        "bath" : "2",
+        "area" : "600",
+        "price" : "700"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Rent",
+        "location" : "Mumbai",
+        "details"  : "Garden Suit,Bandra",
+        "image" : "https://www.expatpropertiesmumbai.com/wp-content/uploads/2019/06/WhatsApp-Image-2019-06-14-at-7.27.21-PM.jpg",
+        "rooms" : "2",
+        "bed" : "2",
+        "bath" : "2",
+        "area" : "700",
+        "price" : "800"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Sale",
+        "location" : "Mumbai",
+        "details"  : "Duplex Apartment, Juhu",
+        "image" : "https://th.bing.com/th/id/R.7aee3c7d60148d86bf5d971a18134be3?rik=t5T8dI4gGdIffg&riu=http%3a%2f%2fwww.displacedaussie.net%2fuploads%2fpune_3_apartments.jpg&ehk=pJyLnNRZ%2fAZDD1XzJdutvJwxhUdA2p0Fon22V9MS7Yc%3d&risl=&pid=ImgRaw&r=0",
+        "rooms" : "4",
+        "bed" : "4",
+        "bath" : "4",
+        "area" : "1200",
+        "price" : "1500"
+    },
+    
+    {
+        "sale" : "For Sale",
+        "location" : "London",
+        "details"  : "DanForth Apartment",
+        "image" : "https://images.viewit.ca/46263/_BR_9_big.jpg",
+        "rooms" : "2",
+        "bed" : "3",
+        "bath" : "1",
+        "area" : "500",
+        "price" : "600"
+    },
+
+    {
+        "sale" : "For Sale",
+        "location" : "Canada",
+        "details"  : "Briar Apartment",
+        "image" : "https://th.bing.com/th/id/OIP.z1kop9-mDmiKIMcgTRkfoAHaE8?pid=ImgDet&rs=1",
+        "rooms" : "3",
+        "bed" : "4",
+        "bath" : "2",
+        "area" : "750",
+        "price" : "800"
+    },
+
+    {
+        "sale" : "For Rent",
+        "location" : "London",
+        "details"  : "Luxury Apartments, London",
+        "image" : "https://res.cloudinary.com/apartmentlist/image/upload/f_auto,q_auto,t_web-base/b92f00c5f959c25884c53efbc072e894.jpg",
+        "rooms" : "3",
+        "bed" : "3",
+        "bath" : "3",
+        "area" : "800",
+        "price" : "1000"
+    },
+
+    {
+        "sale" : "For Rent",
+        "location" : "New York",
+        "details"  : "Ny Luxury Apartments",
+        "image" : "https://gtspirit.com/wp-content/uploads/2014/08/80909499.jpg",
+        "rooms" : "2",
+        "bed" : "3",
+        "bath" : "2",
+        "area" : "600",
+        "price" : "1000"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Sale",
+        "location" : "New York",
+        "details"  : "Manhattan Luxury Apartment",
+        "image" : "https://th.bing.com/th/id/R.e446084e138b77f2779cae58a30fd86b?rik=iR5H%2fEzK3JrBGQ&riu=http%3a%2f%2fluxuryrentalsmanhattan.com%2fsites%2fdefault%2ffiles%2fuploads%2f2013_nyc_rental_market.jpg&ehk=Irg38P6cBcrkPuC%2fUpOtEDPYxu0Y6TAoFM2VEQGveU8%3d&risl=&pid=ImgRaw&r=0",
+        "rooms" : "4",
+        "bed" : "4",
+        "bath" : "3",
+        "area" : "800",
+        "price" : "1200"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Rent",
+        "location" : "Canada",
+        "details"  : "REMI Networks",
+        "image" : "https://www.reminetwork.com/wp-content/uploads/The-Roehampton.jpg",
+        "rooms" : "3",
+        "bed" : "4",
+        "bath" : "3",
+        "area" : "1000",
+        "price" : "1500"
+    },
+
+    {
+        "sale" : "For Sale",
+        "location" : "Canada",
+        "details"  : "Yorkville Luxury Apartment",
+        "image" : "https://s-ec.bstatic.com/images/hotel/max1024x768/415/41558495.jpg",
+        "rooms" : "2",
+        "bed" : "2",
+        "bath" : "2",
+        "area" : "800",
+        "price" : "900"
+    },
+
+    {
+        "sale" : "For Rent",
+        "location" : "New York",
+        "details"  : "Brooklyn Apartment",
+        "image" : "https://th.bing.com/th/id/OIP.M4ufqUZPh0ql-yd_8Q9k6QAAAA?pid=ImgDet&rs=1",
+        "rooms" : "4",
+        "bed" : "4",
+        "bath" : "2",
+        "area" : "1000",
+        "price" : "1200"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Rent",
+        "location" : "London",
+        "details"  : "Studio Apartment",
+        "image" : "https://d1bvpoagx8hqbg.cloudfront.net/originals/studio-apartment-central-london-cab3ce06eea952279e4f5eede91e0fc0.jpg",
+        "rooms" : "1",
+        "bed" : "1",
+        "bath" : "1",
+        "area" : "500",
+        "price" : "400"
+    },
+
+    {
+        "sale" : "For Sale",
+        "location" : "London",
+        "details"  : "Vacation Apartment",
+        "image" : "https://www.londonperfect.com/g/apartment-hero-images/hi_primrose_150418-131.jpg",
+        "rooms" : "2",
+        "bed" : "3",
+        "bath" : "1",
+        "area" : "700",
+        "price" : "800"
+    },
+
+    {
+        "sale" : "For Rent",
+        "location" : "New York",
+        "details"  : "Lake Veiw Luxury Apartment",
+        "image" : "https://s3.amazonaws.com/mlsphotos.idxbroker.com/photos/c822/228ca147e649a4af780b13f8afc0b6f9/c019",
+        "rooms" : "2",
+        "bed" : "2",
+        "bath" : "2",
+        "area" : "600",
+        "price" : "700"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Rent",
+        "location" : "Mumbai",
+        "details"  : "Garden Suit,Bandra",
+        "image" : "https://www.expatpropertiesmumbai.com/wp-content/uploads/2019/06/WhatsApp-Image-2019-06-14-at-7.27.21-PM.jpg",
+        "rooms" : "2",
+        "bed" : "2",
+        "bath" : "2",
+        "area" : "700",
+        "price" : "800"
+    },
+
+    {
+        "sale" : "For Sale",
+        "location" : "Mumbai",
+        "details"  : "Duplex Apartment, Juhu",
+        "image" : "https://th.bing.com/th/id/R.7aee3c7d60148d86bf5d971a18134be3?rik=t5T8dI4gGdIffg&riu=http%3a%2f%2fwww.displacedaussie.net%2fuploads%2fpune_3_apartments.jpg&ehk=pJyLnNRZ%2fAZDD1XzJdutvJwxhUdA2p0Fon22V9MS7Yc%3d&risl=&pid=ImgRaw&r=0",
+        "rooms" : "4",
+        "bed" : "4",
+        "bath" : "4",
+        "area" : "1200",
+        "price" : "1500"
+    },
+
+    {
+        "sale" : "For Sale",
+        "location" : "London",
+        "details"  : "DanForth Apartment",
+        "image" : "https://images.viewit.ca/46263/_BR_9_big.jpg",
+        "rooms" : "2",
+        "bed" : "3",
+        "bath" : "1",
+        "area" : "500",
+        "price" : "600"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Sale",
+        "location" : "London",
+        "details"  : "Briar Apartment",
+        "image" : "https://th.bing.com/th/id/OIP.z1kop9-mDmiKIMcgTRkfoAHaE8?pid=ImgDet&rs=1",
+        "rooms" : "3",
+        "bed" : "4",
+        "bath" : "2",
+        "area" : "750",
+        "price" : "800"
+    },
+
+    {
+        "sale" : "For Rent",
+        "location" : "London",
+        "details"  : "Luxury Apartments, London",
+        "image" : "https://res.cloudinary.com/apartmentlist/image/upload/f_auto,q_auto,t_web-base/b92f00c5f959c25884c53efbc072e894.jpg",
+        "rooms" : "3",
+        "bed" : "3",
+        "bath" : "3",
+        "area" : "800",
+        "price" : "1000"
+    },
+
+    {
+        "sale" : "For Rent",
+        "location" : "New York",
+        "details"  : "Ny Luxury Apartments",
+        "image" : "https://gtspirit.com/wp-content/uploads/2014/08/80909499.jpg",
+        "rooms" : "2",
+        "bed" : "3",
+        "bath" : "2",
+        "area" : "600",
+        "price" : "1000"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Sale",
+        "location" : "New York",
+        "details"  : "Manhattan Luxury Apartment",
+        "image" : "https://th.bing.com/th/id/R.e446084e138b77f2779cae58a30fd86b?rik=iR5H%2fEzK3JrBGQ&riu=http%3a%2f%2fluxuryrentalsmanhattan.com%2fsites%2fdefault%2ffiles%2fuploads%2f2013_nyc_rental_market.jpg&ehk=Irg38P6cBcrkPuC%2fUpOtEDPYxu0Y6TAoFM2VEQGveU8%3d&risl=&pid=ImgRaw&r=0",
+        "rooms" : "4",
+        "bed" : "4",
+        "bath" : "3",
+        "area" : "800",
+        "price" : "1200"
+    },
+
+    {
+        "sale" : "For Rent",
+        "location" : "Canada",
+        "details"  : "REMI Networks",
+        "image" : "https://www.reminetwork.com/wp-content/uploads/The-Roehampton.jpg",
+        "rooms" : "3",
+        "bed" : "4",
+        "bath" : "3",
+        "area" : "1000",
+        "price" : "1500"
+    },
+
+    {
+        "sale" : "For Sale",
+        "location" : "Canada",
+        "details"  : "Yorkville Luxury Apartment",
+        "image" : "https://s-ec.bstatic.com/images/hotel/max1024x768/415/41558495.jpg",
+        "rooms" : "2",
+        "bed" : "2",
+        "bath" : "2",
+        "area" : "800",
+        "price" : "900"
+    },
+
+    {
+        "sale" : "For Rent",
+        "location" : "New York",
+        "details"  : "Brooklyn Apartment",
+        "image" : "https://th.bing.com/th/id/OIP.M4ufqUZPh0ql-yd_8Q9k6QAAAA?pid=ImgDet&rs=1",
+        "rooms" : "4",
+        "bed" : "4",
+        "bath" : "2",
+        "area" : "1000",
+        "price" : "1200"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Rent",
+        "location" : "London",
+        "details"  : "Studio Apartment",
+        "image" : "https://d1bvpoagx8hqbg.cloudfront.net/originals/studio-apartment-central-london-cab3ce06eea952279e4f5eede91e0fc0.jpg",
+        "rooms" : "1",
+        "bed" : "1",
+        "bath" : "1",
+        "area" : "500",
+        "price" : "400"
+    },
+
+    {
+        "sale" : "For Sale",
+        "location" : "London",
+        "details"  : "Vacation Apartment",
+        "image" : "https://www.londonperfect.com/g/apartment-hero-images/hi_primrose_150418-131.jpg",
+        "rooms" : "2",
+        "bed" : "3",
+        "bath" : "1",
+        "area" : "700",
+        "price" : "800"
+    },
+
+    {
+        "sale" : "For Rent",
+        "location" : "New York",
+        "details"  : "Lake Veiw Luxury Apartment",
+        "image" : "https://s3.amazonaws.com/mlsphotos.idxbroker.com/photos/c822/228ca147e649a4af780b13f8afc0b6f9/c019",
+        "rooms" : "2",
+        "bed" : "2",
+        "bath" : "2",
+        "area" : "600",
+        "price" : "700"
+    },
+
+    {
+        "popular" : "popular",
+        "sale" : "For Rent",
+        "location" : "Mumbai",
+        "details"  : "Garden Suit,Bandra",
+        "image" : "https://www.expatpropertiesmumbai.com/wp-content/uploads/2019/06/WhatsApp-Image-2019-06-14-at-7.27.21-PM.jpg",
+        "rooms" : "2",
+        "bed" : "2",
+        "bath" : "2",
+        "area" : "700",
+        "price" : "800"
+    },
+
+    {
+        "sale" : "For Sale",
+        "location" : "Mumbai",
+        "details"  : "Duplex Apartment, Juhu",
+        "image" : "https://th.bing.com/th/id/R.7aee3c7d60148d86bf5d971a18134be3?rik=t5T8dI4gGdIffg&riu=http%3a%2f%2fwww.displacedaussie.net%2fuploads%2fpune_3_apartments.jpg&ehk=pJyLnNRZ%2fAZDD1XzJdutvJwxhUdA2p0Fon22V9MS7Yc%3d&risl=&pid=ImgRaw&r=0",
+        "rooms" : "4",
+        "bed" : "4",
+        "bath" : "4",
+        "area" : "1200",
+        "price" : "1500"
+    }
+]
