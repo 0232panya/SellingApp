@@ -1,0 +1,93 @@
+
+.car-Card{
+    margin: 50px;    
+}
+
+.card{
+   /* width: 300px; */
+   padding: 10px;
+   border-radius: 15px;
+   box-shadow: 1px 1px 20px 1px rgba(10, 10, 10, 0.2);
+}
+
+.card img{
+    width: 300px;
+    border-radius: 15px;
+    height: 200px;
+}
+
+.card-body{
+    margin: 0 15px;
+    border-bottom: 1px solid grey;
+}
+
+.Head{
+    display: flex;
+}
+
+.Head h4{
+    width: 80%;
+}
+
+.Head p{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    padding: 2px;
+    width: 50px;
+    border: 1px dashed rgb(59, 110, 231);
+    border-radius: 12px;
+}
+
+.detail{
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.detail svg{
+    color: rgb(59, 110, 231);
+}
+
+.detail .left-text{
+    width: 50%;
+}
+
+.purchase{
+    display: flex;
+    margin: 0 15px;
+}
+
+.purchase p{
+    width: 40%;
+}
+
+.purchase .btn{
+    width: 60%;
+    display: flex;
+    justify-content:right;
+    margin: auto;
+}
+
+.btn button{
+    width: fit-content;    
+    height: fit-content;
+    margin: 3px;
+    outline: none;
+    border: none;
+    padding: 10px;
+}
+
+.btn .svg{
+    display: flex;
+    border-radius: 12px;
+    background: rgb(210, 234, 240);
+    color: rgb(59, 110, 231);
+}
+
+.btn .rent-btn{
+    background: rgb(59, 110, 231);
+    border-radius: 10px;
+    color: white;
+}

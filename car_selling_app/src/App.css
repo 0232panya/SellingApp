@@ -1,0 +1,22 @@
+
+.App {
+  background: rgb(234, 246, 247);
+  width: 100%;
+  /* height: 100vh; */
+  padding-top: 20px ;
+}
+
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* .img-slider{
+  position: relative;
+} */
+
+.col{
+  display: flex;
+}
+
